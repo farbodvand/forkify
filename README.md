@@ -17,7 +17,7 @@ Install deps:
 npm install
 ```
 
-Update `.env.example` file found in the root directory with your own key and rename it to `.env`:
+Update `.env.example` file found in the root directory with your own key and rename it to `.env`, then run:
 ```bash
 npm run dev
 ```
